@@ -1,0 +1,3 @@
+# The Crossxyreggy website needs no extra packages - it uses only Python's
+# built-in standard library. This file is here because free hosts such as
+# Render run "pip install -r requirements.txt" as their build step.
